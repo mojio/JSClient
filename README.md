@@ -1,5 +1,8 @@
-Mojio.Client
+
+Mojio.Client (DEPRICATED)
 ============
+
+The new Mojio Javascript client is located here: https://github.com/mojio/mojio-js.git
 
 We have started to develop a simple javascript client to help our website interact directly with the Mojio API.  We are releasing this client on github in the hopes of helping other developers get started with the Mojio API faster.
 
