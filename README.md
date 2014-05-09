@@ -1,5 +1,5 @@
 
-Mojio.Client (DEPRICATED)
+Mojio.Client (DEPRECATED)
 ============
 
 The new Mojio Javascript client is located here: https://github.com/mojio/mojio-js.git
